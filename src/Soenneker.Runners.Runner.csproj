@@ -44,6 +44,6 @@
     <ItemGroup>
         <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.9" />
         <PackageReference Include="Soenneker.MsTeams.Util" Version="3.0.363" />
-        <PackageReference Include="Soenneker.Utils.BackgroundQueue" Version="3.0.2176" />
+        <PackageReference Include="Soenneker.Utils.BackgroundQueue" Version="3.0.2178" />
     </ItemGroup>
 </Project>
