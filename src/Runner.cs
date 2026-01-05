@@ -20,7 +20,7 @@ public abstract class Runner : IRunner
     /// <summary>
     /// Is set within ctor
     /// </summary>
-    protected DateTime UtcNow { get; }
+    protected DateTimeOffset UtcNow { get; }
 
     protected Runner(ILogger<Runner> logger, IMsTeamsUtil msTeamsUtil, IBackgroundQueue backgroundQueue)
     {
@@ -28,6 +28,6 @@ public abstract class Runner : IRunner
         MsTeamsUtil = msTeamsUtil;
         BackgroundQueue = backgroundQueue;
 
-        UtcNow = DateTime.UtcNow;
+        UtcNow = DateTimeOffset.UtcNow;
     }
 }
