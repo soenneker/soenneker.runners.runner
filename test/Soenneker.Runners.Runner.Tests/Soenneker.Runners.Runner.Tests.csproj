@@ -27,7 +27,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Runners.Runner.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Runners.Runner\Soenneker.Runners.Runner.csproj" />
     </ItemGroup>
 
     <ItemGroup>
