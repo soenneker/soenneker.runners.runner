@@ -1,5 +1,4 @@
 [![](https://img.shields.io/nuget/v/soenneker.runners.runner.svg?style=for-the-badge)](https://www.nuget.org/packages/soenneker.runners.runner/)
-[![](https://img.shields.io/github/actions/workflow/status/soenneker/soenneker.runners.runner/publish-package.yml?style=for-the-badge)](https://github.com/soenneker/soenneker.runners.runner/actions/workflows/publish-package.yml)
 [![](https://img.shields.io/nuget/dt/soenneker.runners.runner.svg?style=for-the-badge)](https://www.nuget.org/packages/soenneker.runners.runner/)
 [![](https://img.shields.io/github/actions/workflow/status/soenneker/soenneker.runners.runner/codeql.yml?label=CodeQL&style=for-the-badge)](https://github.com/soenneker/soenneker.runners.runner/actions/workflows/codeql.yml)
 
