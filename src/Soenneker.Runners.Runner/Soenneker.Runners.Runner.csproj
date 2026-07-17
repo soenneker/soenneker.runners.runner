@@ -44,6 +44,6 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="Soenneker.MsTeams.Util" Version="4.0.1008" />
+        <PackageReference Include="Soenneker.MsTeams.Util" Version="4.0.1010" />
     </ItemGroup>
 </Project>
