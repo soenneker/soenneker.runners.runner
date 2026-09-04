@@ -6,6 +6,7 @@ using Soenneker.Utils.BackgroundQueue.Abstract;
 
 namespace Soenneker.Runners.Runner;
 
+/// <inheritdoc cref="IRunner" />
 public abstract class Runner : IRunner
 {
     protected IMsTeamsUtil MsTeamsUtil { get; }
